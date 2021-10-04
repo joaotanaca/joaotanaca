@@ -1,4 +1,4 @@
-### Salve, eu sou João Tanaca
+### Olá, eu sou Tanaca
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
