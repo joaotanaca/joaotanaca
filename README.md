@@ -26,3 +26,5 @@
   ![Snake animation](https://github.com/joaotanaca/joaotanaca/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=ozeuss0qeqw65yf1uocz2mww2&unique={true|1|on|yes})
